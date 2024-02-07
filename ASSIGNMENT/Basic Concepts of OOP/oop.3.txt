@@ -1,0 +1,47 @@
+OOP (Object-Oriented Programming) and POP (Procedural-Oriented Programming) are two different programming paradigms, each with its own set of principles and characteristics. Here are the key differences between OOP and POP:
+
+1.Paradigm:
+
+OOP: It revolves around the concept of "objects," which encapsulate data and behavior.
+POP: It revolves around procedures or routines, where the program is organized as a sequence of instructions that execute one after the other.
+
+
+2.Focus:
+
+OOP: Focuses on organizing code around objects, promoting concepts like encapsulation, inheritance, and polymorphism.
+POP: Focuses on procedures and functions, organizing code around the execution of tasks.
+
+
+3.Data and Behavior:
+
+OOP: Encapsulates data and behavior within objects. Objects are instances of classes, which act as blueprints for creating objects.
+POP: Separates data and behavior. Data is often kept in data structures, and behavior is defined through functions or procedures.
+
+
+4.Encapsulation:
+
+OOP: Emphasizes encapsulation, where data is hidden from the outside world and can only be accessed through well-defined interfaces (methods).
+POP: Encapsulation is not a primary concern, and data is often shared more openly.
+
+
+5.Inheritance:
+
+OOP: Supports inheritance, allowing one class (subclass/derived class) to inherit properties and behaviors from another class (superclass/base class).
+POP: Does not have a built-in mechanism for inheritance, and code reuse is typically achieved through the reuse of procedures or functions.
+
+6.Polymorphism:
+
+OOP: Embraces polymorphism, allowing objects of different types to be treated as objects of a common type through method overloading and method overriding.
+POP: Polymorphism is often achieved through the use of function overloading or by defining different functions with the same name.
+
+
+7.Example Languages:
+
+OOP: Examples of object-oriented languages include Java, C++, Python, and Ruby.
+POP: Examples of procedural languages include C, Fortran, and Pascal.
+
+
+8.Modularity:
+
+OOP: Promotes modularity by encapsulating related functionality within objects, leading to more modular and reusable code.
+POP: Code is organized as a sequence of procedures, which may lead to less modular code compared to OOP.
